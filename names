@@ -13,7 +13,7 @@ public class Names {
 		System.out.println("'--'    /__\\    (^._.^)~ <(o.o )>");
 	}
 
-    public static void PrintJamesSig(){
+        public static void PrintJamesSig(){
         System.out.println("|____|")
         System.out.println("|____|")
     
@@ -22,6 +22,11 @@ public class Names {
 	public static void PrintYifanSig(){
         System.out.println("'--' (^._.^)~")
         System.out.println(" (^._.^)~ '--'")
+    }
+
+	public static void PrintVenkataSig(){
+        System.out.println("'<' :->")
+        System.out.println(".-. '-' :i ")
     }
 }
 
