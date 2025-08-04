@@ -18,5 +18,10 @@ public class Names {
         System.out.println("|____|")
     
     }
+
+	public static void PrintYifanSig(){
+        System.out.println("'--' (^._.^)~")
+        System.out.println(" (^._.^)~ '--'")
+    }
 }
 
